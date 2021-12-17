@@ -2,3 +2,5 @@ git init - Cria um repositório local
 git status - Verifica as modificações que ainda não foram "commitadas"
 git commit - armazena as modificações no repositório local 
 (junto de um comentário)
+git log - mostra a id do commit, comentário, autor e data
+(se add o parametro --oneline ele exibe um log mais resumid. git log --oneline)
