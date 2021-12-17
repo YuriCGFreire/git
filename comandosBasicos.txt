@@ -1,6 +1,8 @@
 git init - Cria um repositório local
 git status - Verifica as modificações que ainda não foram "commitadas"
-git commit - armazena as modificações no repositório local 
-(junto de um comentário)
+git add - adiciona a modificação para área de staging
+git commit -m - armazena as modificações no repositório local 
+(junto de um comentário. se no lugar de -m eu usar o argumento -am eu adiciono o arquivo para 
+area de stagging e faço o commit ao mesmo tempo.)
 git log - mostra a id do commit, comentário, autor e data
 (se add o parametro --oneline ele exibe um log mais resumid. git log --oneline)
