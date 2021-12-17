@@ -1,0 +1,4 @@
+git init - Cria um repositório local
+git status - Verifica as modificações que ainda não foram "commitadas"
+git commit - armazena as modificações no repositório local 
+(junto de um comentário)
