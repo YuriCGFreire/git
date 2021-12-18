@@ -1,0 +1,3 @@
+git log --graph - mostra o grafo de commits
+git branch - identifica o ramo em que o projeto se encontra
+git checkout <hash do commit. (pode ser o simplificado)> - 
