@@ -1,4 +1,5 @@
 git log --graph - mostra o grafo de commits
 git branch - identifica o ramo em que o projeto se encontra
-git checkout <hash do commit ou main/master. (pode ser o simplificado)> - Ele aponta o head para 
+git checkout hash do commit ou main/master. (pode ser o simplificado) - Ele aponta o head para 
 um determinado commit ou retorna para master/main
+git restore nomeDoArquivo - desfaz as alterações feitas
